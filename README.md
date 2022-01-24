@@ -12,5 +12,5 @@
  
  ## Proposed Network Architecture for Shadow Removal
  
- ![This is an image] (Fig_1(3).png)
+ ![This is an image] (/Fig_1(3).png)
  
