@@ -31,4 +31,4 @@ For testing on your own images
 # Citation
 Please cite this work [Throwaway Shadows](https://doi.org/10.3390/app12020824)
 
-!abc[xyz](https://github.com/kamranjaved/Shadow-Removal/blob/main/Fig_1(3).png)
+
