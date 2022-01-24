@@ -28,3 +28,5 @@ For testing on your own images
  -Run test.py
  
 
+# Citation
+Please cite this work [Throwaway Shadows](https://doi.org/10.3390/app12020824)
