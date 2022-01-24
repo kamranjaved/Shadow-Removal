@@ -31,4 +31,6 @@ For testing on your own images
 # Citation
 Please cite this work [Throwaway Shadows](https://doi.org/10.3390/app12020824)
 
+[Javed K, Ud Din N, Hussain G, Farooq T. Throwaway Shadows Using Parallel Encoders Generative Adversarial Network. Applied Sciences. 2022 Jan;12(2):824.]
+
 
