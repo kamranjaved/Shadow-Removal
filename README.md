@@ -12,5 +12,5 @@
  
  ## Proposed Network Architecture for Shadow Removal
  
- ![This is an image] (/Fig_1(3).png)
+ ![This is an image] (https://github.com/kamranjaved/Shadow-Removal/blob/81e05b35a13e1996398bcc311619e9e44e0e65a0/Fig_1(3).png)
  
