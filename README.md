@@ -10,7 +10,21 @@
 
  *(iv) Removes the shadow and creates perceptually better outputs with fine details in challenging facial images.*
  
- ## Proposed Network Architecture for Shadow Removal
+## Training
+
+For training on your dataset
+
+ -Please place your training images at following path /dataset/train
  
- ![This is an image] (https://github.com/kamranjaved/Shadow-Removal/blob/81e05b35a13e1996398bcc311619e9e44e0e65a0/Fig_1(3).png)
+ -Run train.py
  
+ 
+ ## Testing
+
+For testing on your own images
+
+ -Please place your test images at following path /dataset/test
+ 
+ -Run test.py
+ 
+
